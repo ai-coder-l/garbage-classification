@@ -13,6 +13,4 @@ There are two models currently available:
 
 ### RESULTS
 
-![Accuracy](https://github.com/meryemsakin/garbage-classification/blob/master/acc.png)
-
-![Loss](https://github.com/meryemsakin/garbage-classification/blob/master/loss.png)
+![Accuracy](https://github.com/meryemsakin/garbage-classification/blob/master/acc.png) ![Loss](https://github.com/meryemsakin/garbage-classification/blob/master/loss.png)
