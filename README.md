@@ -11,10 +11,9 @@ There are two models currently available:
 2. **Advanced Model**: This advanced model has 12 classes and was trained on 15,515 images. It has a maximum accuracy of 97.6% and is located in the "extra" folder under the "testbr" branch.
 
 
-### RESULTS
+### Accuracy and Loss
 
-###Loss
+
 ![Accuracy](https://github.com/meryemsakin/garbage-classification/blob/master/acc.png)
 
-##Loss
 ![Loss](https://github.com/meryemsakin/garbage-classification/blob/master/loss.png)
