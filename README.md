@@ -1,8 +1,25 @@
-##                                Garbage Classification
+##Garbage Classification
 
 ![garbage](https://github.com/meryemsakin/garbage-classification/blob/master/garbage.png)
 
+Garbage classification refers to the process of sorting various types of waste into certain categories. This process typically aids the recycling process and helps to preserve the environment. Garbage classification is often used at waste management facilities, recycling centers, and municipal garbage collection services.
+
+Nowadays, the process of garbage classification is becoming increasingly automated through the use of artificial intelligence and machine learning technologies. These technologies can utilize image recognition techniques to accurately identify and classify types of trash, making the process of garbage classification faster and more effective.
+
+Garbage classification is important and beneficial for the following reasons:
+
+Environmental Protection: Proper garbage classification aids in the protection of the environment. Correctly separating recyclable materials allows for the reuse of these materials and conservation of natural resources.
+
+Energy Savings: Recycling materials, a process facilitated by proper garbage classification, typically uses less energy than producing new materials. This energy saving aids in the reduction of greenhouse gas emissions.
+
+Economic Benefits: Recyclable materials, once sorted, can be sold and reused, promoting economic sustainability. Furthermore, automated garbage classification systems can reduce the need for manual labor, leading to additional cost savings.
+
+Public Health and Safety: Proper disposal and recycling of waste materials can reduce pollution and lower the risk of diseases associated with waste mismanagement.
+
+Overall, garbage classification, especially when it is aided by technologies such as artificial intelligence, plays a vital role in our communities and in the environment. It contributes to sustainable development, economic growth, and the preservation of natural resources.
+
 This repository contains garbage classification models built using PyTorch, capable of accurately classifying garbage into different categories. It includes two versions of the model, one with 6 classes & the other with 12 classes, to cater to different needs.
+
 
 ## Models
 
