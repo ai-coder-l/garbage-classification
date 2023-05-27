@@ -23,9 +23,7 @@ There are two models currently available:
 
 ## Results
 
-<img src="https://github.com/meryemsakin/garbage-classification/blob/master/metal.png" width="500" height="300">
+<img src="https://github.com/meryemsakin/garbage-classification/blob/master/metal.png" width="500" height="500">
 
+<img src="https://github.com/meryemsakin/garbage-classification/blob/master/plastic.png" width="500" height="500">
 
-![metal](https://github.com/meryemsakin/garbage-classification/blob/master/metal.png)
-
-![plastic](https://github.com/meryemsakin/garbage-classification/blob/master/plastic.png)
