@@ -10,6 +10,12 @@ There are two models currently available:
 
 2. **Advanced Model**: This advanced model has 12 classes and was trained on 15,515 images. It has a maximum accuracy of 97.6% and is located in the "extra" folder under the "testbr" branch.
 
-Both models were tested on images provided in the Garbage Data Collection Form by Students.
 
-## Installation
+### RESULTS
+
+#### Vehicles Detection, Tracking and Counting 
+![](./https://github.com/meryemsakin/garbage-classification/blob/master/acc.png)
+
+#### Vehicles Detection, Tracking and Counting
+
+![](./https://github.com/meryemsakin/garbage-classification/blob/master/loss.png)
