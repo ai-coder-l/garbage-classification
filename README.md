@@ -1,11 +1,5 @@
 ## Garbage Classification
 
-This repository contains garbage classification models built using PyTorch, capable of accurately classifying garbage into different categories. It includes two versions of the model, one with 6 classes & the other with 12 classes, to cater to different needs.
-
-![garbage](https://github.com/meryemsakin/garbage-classification/blob/master/garbage.png)
-
-##
-
 Garbage classification refers to the process of sorting various types of waste into certain categories. This process typically aids the recycling process and helps to preserve the environment. Garbage classification is often used at waste management facilities, recycling centers, and municipal garbage collection services.
 
 Nowadays, the process of garbage classification is becoming increasingly automated through the use of artificial intelligence and machine learning technologies. These technologies can utilize image recognition techniques to accurately identify and classify types of trash, making the process of garbage classification faster and more effective.
@@ -22,6 +16,11 @@ Nowadays, the process of garbage classification is becoming increasingly automat
 
 Overall, garbage classification, especially when it is aided by technologies such as artificial intelligence, plays a vital role in our communities and in the environment. It contributes to sustainable development, economic growth, and the preservation of natural resources.
 
+
+## 6-class and 12-class Versions
+This repository contains garbage classification models built using PyTorch, capable of accurately classifying garbage into different categories. It includes two versions of the model, one with 6 classes & the other with 12 classes, to cater to different needs.
+
+![garbage](https://github.com/meryemsakin/garbage-classification/blob/master/garbage.png)
 
 ## Models
 
