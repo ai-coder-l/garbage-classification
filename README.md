@@ -13,9 +13,6 @@ There are two models currently available:
 
 ### RESULTS
 
-#### Vehicles Detection, Tracking and Counting 
-![Accuracy]((https://github.com/meryemsakin/garbage-classification/blob/master/acc.png))
+![Accuracy](https://github.com/meryemsakin/garbage-classification/blob/master/acc.png)
 
-#### Vehicles Detection, Tracking and Counting
-
-![Loss]((https://github.com/meryemsakin/garbage-classification/blob/master/loss.png))
+![Loss](https://github.com/meryemsakin/garbage-classification/blob/master/loss.png)
