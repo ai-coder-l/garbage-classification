@@ -1,4 +1,4 @@
-# Garbage Classification
+##                                Garbage Classification
 
 ![garbage](https://github.com/meryemsakin/garbage-classification/blob/master/garbage.png)
 
@@ -21,7 +21,7 @@ There are two models currently available:
 ![Loss](https://github.com/meryemsakin/garbage-classification/blob/master/loss.png)
 
 
-##Results
+## Results
 
 ![metal](https://github.com/meryemsakin/garbage-classification/blob/master/metal.png)
 
